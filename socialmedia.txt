@@ -1,4 +1,7 @@
+www.facebook.com
+www.facebook.com/*
 facebook.com
+facebook.com/*
 internet.org
 fbcdn.net
 messenger.com
